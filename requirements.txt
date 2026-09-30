@@ -1,0 +1,21 @@
+# Core dependencies
+numpy>=1.24.0
+Pillow>=9.5.0
+opencv-python>=4.8.0
+scipy>=1.10.0
+
+# GPU Rendering & Windowing
+moderngl>=5.8.0
+pygame-ce>=2.4.0
+
+# Serialization & CLI
+pydantic>=2.0.0
+
+# AI Depth Estimation (Transformers + PyTorch)
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.40.0
+huggingface_hub>=0.20.0
+
+# Testing
+pytest>=7.0.0

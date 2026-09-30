@@ -1,0 +1,11 @@
+﻿models/big-lama.onnx
+models/big-lama.pt
+# Python cache and environments
+__pycache__/
+.pytest_cache/
+.venv/
+
+# Debug and generated output files
+debug_masks/
+debug_user_image/
+user_image.4dw
